@@ -47,15 +47,27 @@ Included in this repo you will find:
 • README.md file for both the PyBank and PyPoll Challenges
 
 • PyBank Folder which includes:
+
     • main.py file outlining the solution defined
+
     • Analysis Folder comprised of:
+
         • Output txt file for solution
+
         • Screenshot of terminal with working solution
+
     • Resources Folder comprised of the file used to solve the challenge
 
+
 • PyPoll Folder which includes:
+
     • main.py file outlining the solution defined
+
     • Analysis Folder comprised of:
+
         • Output txt file for solution
+
         • Screenshot of terminal with working solution
+
     • Resources Folder comprised of the file used to solve the challenge
+    
